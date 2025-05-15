@@ -1,0 +1,15 @@
+<Plugin>
+  <Name>Unraid Open Files Plugin (Fork)</Name>
+  <Author>Uleepera</Author>
+  <Category>System</Category>
+  <Repository>https://github.com/Uleepera/unraid-open-files-fork</Repository>
+  <PluginURL>https://raw.githubusercontent.com/Uleepera/unraid-open-files-fork/main/open.files.plg</PluginURL>
+  <Changes>Initial release of forked version.</Changes>
+  <Description>
+    This plugin shows open files on the array that might prevent a clean shutdown.
+    Adds a Tools page in Unraid for identifying processes holding open files.
+    Forked from the original plugin by BubbaQ and maintained by dlandon.
+  </Description>
+  <Support>https://forums.unraid.net/topic/190204-plugin-unraid-open-files-plugin-fork/</Support>
+  <Icon>https://raw.githubusercontent.com/Uleepera/unraid-open-files-fork/main/icons/openfiles.png</Icon>
+</Plugin>
